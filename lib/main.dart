@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 void main(){
   runApp (
    MaterialApp(
-     title: "My App",
+     title: "Little 001 App",
      home: MyScaffold(),
    )
   );
@@ -23,7 +23,7 @@ class MyScaffold extends StatelessWidget{
             ),
           Expanded(
             child: Center(
-              child: Text('Hello word'),
+              child: Text('Hello word 001'),
             ),
           )
         ],
